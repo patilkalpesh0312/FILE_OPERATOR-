@@ -72,25 +72,8 @@ Personal-Journal-Manager/
 
 ---
 
-## 💻 Installation
 
-### Clone Repository
 
-```bash
-git clone https://github.com/your-username/personal-journal-manager.git
-```
-
-### Move into Project Directory
-
-```bash
-cd personal-journal-manager
-```
-
-### Run Program
-
-```bash
-python journal.py
-```
 
 ---
 
@@ -152,21 +135,13 @@ Today I learned Python File Handling.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**KALPESH PATIL😊**
 
 Passionate Python Developer 🚀
 
 ---
 
-## ⭐ Support
 
-If you found this project useful:
-
-🌟 Star the repository
-
-🍴 Fork the project
-
-📢 Share with friends
 
 ---
 
